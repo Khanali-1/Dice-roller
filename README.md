@@ -1,2 +1,2 @@
 # Dice-roller
-A dice roller 🎲 program made with html+css and js 
+A dice roller 🎲 program <br> made with html+css and js 
